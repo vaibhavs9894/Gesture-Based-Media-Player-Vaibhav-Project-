@@ -1,0 +1,3 @@
+opencv-contrib-python   4.5.2.54
+PyAutoGUI               0.9.53
+mediapipe               0.8.6
